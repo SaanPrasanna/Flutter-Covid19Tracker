@@ -1,6 +1,6 @@
-# covid_19
+# COVID 19 Tracker
 
-A new Flutter project.
+It's work with flutter TDD clean architecture. Firstly thank you reso coder for share his knowledge with us.
 
 ## Getting Started
 
