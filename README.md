@@ -1,4 +1,6 @@
 # Covid-19 Tracker	
+![Splash Screen](https://github.com/SaanPrasanna/Flutter-Covid19Tracker/blob/master/assets/1.png?raw=true)
+![Search Screen](https://github.com/SaanPrasanna/Flutter-Covid19Tracker/blob/master/assets/2.png?raw=true)
 
 - `flutter_bloc`for State Manage
 - `get_it ` serviec locator
