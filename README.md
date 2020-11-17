@@ -1,15 +1,29 @@
-# COVID 19 Tracker
+# Covid-19 Tracker	
 
-It's work with flutter TDD clean architecture. Firstly thank you reso coder for share his knowledge with us.
+- `flutter_bloc`for State Manage
+- `get_it ` serviec locator
+- `equatable` Value Equality
+- `dartz` Funcational Programming thingies
+- `data_connection_checker` Remote API
+- `http` 
+- `shared_preferences` Local Cache
+- `dio` 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Installation 
+**1 Clone repo**
+```
+https://github.com/SaanPrasanna/Flutter-Covid19Tracker.git
+```
+**2 Get Packages**
+```
+flutter pub get
+```
+**3 Run Project**
+```
+flutter run
+```
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
